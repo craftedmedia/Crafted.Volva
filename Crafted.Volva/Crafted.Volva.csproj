@@ -32,9 +32,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="Crafted.Config, Version=2.2.1.1, Culture=neutral, processorArchitecture=MSIL">
+    <Reference Include="Crafted.Config, Version=2.3.5.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\packages\Crafted.Config.2.2.1\lib\Crafted.Config.dll</HintPath>
+      <HintPath>..\packages\Crafted.Config.2.3.5\lib\net35\Crafted.Config.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Configuration" />
@@ -46,7 +46,7 @@
     <Compile Include="BasicAuthentication.cs" />
     <Compile Include="Helpers\BasicAuthenticationHelper.cs" />
     <Compile Include="BasicUser.cs" />
-    <Compile Include="Config.cs" />
+    <Compile Include="Helpers\Config.cs" />
     <Compile Include="Helpers\CookieHelper.cs" />
     <Compile Include="Helpers\WindowsLogonApiHelper.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

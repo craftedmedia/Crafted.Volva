@@ -103,7 +103,7 @@ namespace Crafted.Volva {
     /// <summary>
     /// Message Config element
     /// </summary>
-    internal class Message : ConfigElement {
+    internal class Message : DefaultTextConfigElement {
     }
 
     /// <summary>

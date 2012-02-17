@@ -52,7 +52,7 @@ namespace Crafted.Volva {
                     if(v.Values.Message == null) {
                         return "Area secured by Crafted.Volva";
                     }
-                    return v.Values.Message.InnerText;
+                    return v.Values.Message.Content;
                 }
             }
         }
