@@ -11,6 +11,7 @@
       <frameworkAssembly assemblyName="System.Web" targetFramework="" />
     </frameworkAssemblies>
     <id>Crafted.Volva</id>
+    <projectUrl>https://github.com/craftedmedia/Crafted.Volva</projectUrl>
     <title>Crafted.Volva Basic Authentication Module for IIS7</title>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Adds basic authentication to a site or part of a site for IIS7 test site .
