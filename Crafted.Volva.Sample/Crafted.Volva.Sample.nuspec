@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <authors>John Folley</authors>
+	<owners>Crafted</owners>
+	<version>1.0.1</version>
+    <projectUrl>https://www.crafted.co.uk</projectUrl>
+    <dependencies>
+      <dependency id="Crafted.Volva" version="1.0.5" />
+    </dependencies>
+    <id>Crafted.Volva.Sample</id>
+    <title>Crafted.Volva Basic Authentication Module for IIS7 Sample</title>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Sample for Crafted.Volva: Adds basic authentication to a site or part of a site for IIS7 test site .
+Everything is managed in web.config and authentications are made against config users and windows users</description>
+    <summary>Adds basic authentication to a site or part of a site for IIS7 test site .</summary>
+    <copyright>Copyright © Crafted 2012</copyright>
+    <tags>iis7,basic authentication</tags>
+  </metadata>
+  <files>
+    <file src="Web.config.transform" target="content\Sample\Web.config.transform" />
+  </files>
+</package>

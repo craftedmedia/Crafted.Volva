@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<configuration>
+
+	<Crafted.Volva BasicAuthenticationIsEnabled="true">
+		<locations>
+			<path match="*" />
+		</locations>
+		<users>
+			<user username="sampleUser" password="samplePassword" />
+		</users>
+	</Crafted.Volva>
+</configuration>
