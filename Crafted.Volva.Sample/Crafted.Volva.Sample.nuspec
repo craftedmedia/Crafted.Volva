@@ -4,7 +4,7 @@
     <authors>John Folley</authors>
 	<owners>Crafted</owners>
 	<version>1.0.1</version>
-    <projectUrl>https://www.crafted.co.uk</projectUrl>
+    <projectUrl>https://github.com/craftedmedia/Crafted.Volva</projectUrl>
     <dependencies>
       <dependency id="Crafted.Volva" version="1.0.5" />
     </dependencies>
